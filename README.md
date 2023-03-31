@@ -1,2 +1,0 @@
-# FirstVRTemplate
- FirstVRTemplate
